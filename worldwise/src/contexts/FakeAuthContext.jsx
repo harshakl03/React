@@ -8,8 +8,8 @@ const initialState = {
 };
 
 const FAKE_USER = {
-  name: "Jack",
-  email: "jack@example.com",
+  name: "Harsha K L",
+  email: "harshaharsha87593@gmail.com",
   password: "qwerty",
   avatar: "https://i.pravatar.cc/100?u=zz",
 };
